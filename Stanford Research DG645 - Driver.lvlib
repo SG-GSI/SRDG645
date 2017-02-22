@@ -155,7 +155,7 @@ Contact: S.Goette@gsi.de
 		<Item Name="dir.mnu" Type="Document" URL="../Utility/dir.mnu"/>
 	</Item>
 	<Item Name="Documentation" Type="Folder">
-		<Item Name="SRS_DG645m.pdf" Type="Document" URL="../Documentation/SRS_DG645m.pdf"/>
+		<Item Name="SRS_DG645m.pdf" Type="Document" URL="/S/Subsysteme/PCS/Dokumentation/SRS_DG645m.pdf"/>
 	</Item>
 	<Item Name="Stanford Research DG645 Readme.html" Type="Document" URL="../Stanford Research DG645 Readme.html"/>
 	<Item Name="Initialize.vi" Type="VI" URL="../Initialize.vi"/>
